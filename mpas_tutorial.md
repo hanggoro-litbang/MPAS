@@ -1,6 +1,6 @@
 # Tutorial Instalasi dan Menjalankan MPAS (Global & Regional)
 
-Repositori ini berisi panduan langkah demi langkah untuk menginstal dan menjalankan Model for Prediction Across Scales (MPAS) baik untuk domain Global maupun Regional.
+Repositori ini berisi panduan langkah demi langkah untuk menginstal dan menjalankan Model for Prediction Across Scales (MPAS) baik untuk domain Global maupun Regional. (Sesuaikan PATH dengan konfigurasi komputer masing-masing)
 
 ---
 
